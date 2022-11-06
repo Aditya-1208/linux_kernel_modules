@@ -3,8 +3,8 @@ Let's make our first Kernel Module named simple, which will essentially just log
 We'll also explore some of Kernel headers and utilize them in the module.
 
 ## Pre-requisites
-- [Finish workspace setup](../../#setting-up-workspace)
-- [Understand workflow](../../#our-workflow)
+- [Finish workspace setup](../../../#setting-up-workspace)
+- [Understand workflow](../../../#our-workflow)
 - Download the folder ```simple``` to local workspace
 
 ## Steps
