@@ -46,6 +46,7 @@ Usually Linux Kernel Modules are written in C programming language
 ## Proc File System
 In Linux, Proc file system contains runtime information of system and acts as a source of communcation between user and kernel spaces. It is a virtual or pseudo file system
 which means the files listed in this aren't really stored permanently, this file system is created and updated at runtime, while it gets destroyed as system is turned off.
+
 ![image](https://user-images.githubusercontent.com/75921254/200152086-7ad49e43-f43d-4fa5-8c1b-772144445384.png)
 
 > Image Source : [Slide 38 : Lecture 5 proc file system](https://slideplayer.com/slide/12696991/)
