@@ -2,6 +2,7 @@
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/proc_fs.h>
+#include <asm/uaccess.h>
 #define BUFFER_SIZE 128
 #define PROC_NAME "hello"
 static ssize_t proc_read(struct file *file, char __user *usr_buf,size_t count, loff_t *pos);

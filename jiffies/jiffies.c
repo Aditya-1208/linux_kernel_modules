@@ -2,7 +2,9 @@
 #include <linux/kernel.h>
 #include <linux/module.h>
 #include <linux/proc_fs.h>
+#include <asm/uaccess.h>
 #include <linux/jiffies.h>
+
 #define BUFFER_SIZE 128
 #define PROC_NAME "jiffies"
 
