@@ -46,7 +46,7 @@ sudo lsmod | grep seconds
 
 - **Check the proc file again**
 ```
-cat /proc/jiffies
+cat /proc/seconds
 ```
 ![image](https://user-images.githubusercontent.com/75921254/200176012-0e4e6342-f128-4778-a4fe-90756f36204e.png)
 
