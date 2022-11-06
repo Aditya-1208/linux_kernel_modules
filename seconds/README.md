@@ -8,7 +8,7 @@ Along with jiffies, we'll utilize another constant variable named HZ, which repr
 - Download the folder ```seconds``` to local workspace
 
 ## Steps
-Almost similar to hello jiffies, just we calculate and output time elapsed since module loaded.
+Almost similar to hello & jiffies, just we calculate and output time elapsed since module loaded.
 
 - **Navigate to Project directory**
 ```
