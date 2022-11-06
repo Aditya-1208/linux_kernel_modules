@@ -172,4 +172,4 @@ MODULE_AUTHOR("SGG");
 
 > **Note** : We declare custom functions and variable as static, this is to limit their scope to current module,otherwise they would be accessible in whole of Kernel and pollute global namespace!
 
-**Next up : [jiffies](./jiffies) Module** 
+**Next up : [jiffies](/jiffies) Module** 
