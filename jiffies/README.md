@@ -20,7 +20,7 @@ cd jiffies
 sudo make
 ```
 
--  **Look for ```jiffies`` in loaded Modules**
+-  **Look for ```jiffies``` in loaded Modules**
 ```
 sudo lsmod | grep jiffies
 ```
