@@ -160,8 +160,8 @@ return rv;
 
 - **Macros for registering module entry and exit points**
 ```
-module_init(simple_init);
-module_exit(simple_exit);
+module_init(proc_init);
+module_exit(proc_exit);
 ```
 - **Defining additional module info**
 ```
